@@ -1,8 +1,8 @@
 {
-  "name": "New Black Tab",
-  "version": "2.0.0",
+  "name": "New White Tab by Dorian",
+  "version": "1.0.0",
   "manifest_version": 3,
-  "description": "Replaces the new tab page with a black page matching Chrome dark mode",
+  "description": "Replaces the new tab page with a white page matching Chrome light mode",
   "homepage_url": "https://dorianmarie.com",
   "icons": {
     "256": "icon.png"
