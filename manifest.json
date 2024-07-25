@@ -1,0 +1,14 @@
+{
+  "name": "New Black Tab",
+  "version": "2.0.0",
+  "manifest_version": 3,
+  "description": "Replaces the new tab page with a black page matching Chrome dark mode",
+  "homepage_url": "https://dorianmarie.com",
+  "icons": {
+    "256": "icon.png"
+  },
+  "default_locale": "en",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
